@@ -41,4 +41,5 @@ dependencies {
     api("org.apache.commons:commons-math3:3.6.1")
 
     implementation("com.github.alexsvdk:graphbot:$version")
+    implementation("org.telegram:telegrambots:4.9.1")
 }
